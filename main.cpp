@@ -3,7 +3,7 @@
 int main() {
 
   FirstDuplicateValue::driver();
-//  PalindromeChecker::driver();
+  PalindromeChecker::driver();
 //  MissingDigit::driver();
 //  PairWithTargetSum::driver();
 //  NthFibonacci::driver();
